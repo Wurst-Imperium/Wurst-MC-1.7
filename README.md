@@ -16,7 +16,7 @@ If you just want to use Wurst, follow these steps:
 
 1. [Download Wurst.](https://www.wurstclient.net/download/minecraft-1-7-x/)
 
-2. [Install Wurst.](https://www.wurstclient.net/how-to-install/).
+2. [Install Wurst.](https://www.wurstclient.net/how-to-install/)
 
 ### For Developers (Windows only)
 
